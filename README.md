@@ -32,7 +32,7 @@
 ---
 
 ## 🛠️ Setup Instructions
-
+clone git@github.com:yasmin11111/shopping_app_sprints.git
 ### 1. Clone the project
 ```bash
 git 
