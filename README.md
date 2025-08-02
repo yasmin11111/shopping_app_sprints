@@ -42,5 +42,5 @@
 clone git@github.com:yasmin11111/shopping_app_sprints.git
 ### 1. Clone the project
 ```bash
-git 
-cd shopify-flutter
+git clone https://github.com/yasmin11111/shopping_app_sprints.git
+cd shopping_app_sprints
